@@ -10,7 +10,7 @@ Feature: Amount Validator
 
     Examples:
       | OrderDate | ValidOrInvalid |
-      | 1         | true           |
+      | 11        | true           |
       | 10        | true           |
       | 100       | true           |
       | 1000      | true           |
